@@ -7,7 +7,7 @@ setup(
     name='pyresparser',
     version='1.0.6',
     description='A simple resume parser used for extracting information from resumes',
-    long_description=open('README.rst').read(),
+    long_description=open('README.rst',encoding="utf-8").read(),
     url='https://github.com/OmkarPathak/pyresparser',
     author='Omkar Pathak',
     author_email='omkarpathak27@gmail.com',
